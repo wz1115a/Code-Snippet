@@ -1,5 +1,3 @@
-package myone;
-
 import java.util.*;
 public class kuohao {
 
